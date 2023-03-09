@@ -1,0 +1,143 @@
+html{
+    background-image: url("E:\React\demo\src\rolls-royce-black-badge-ghost-2022-5k-6016x3384-8328.jpeg");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /* position: fixed; */
+  height: 450px;
+  margin: 0 auto;
+  padding-top: 280px;
+padding-left: 0%;
+}
+
+#HomeContainer{
+    border: 1px solid ;
+    box-shadow:  5px 9px grey;
+    border-radius: 3px;
+    width: 450px;
+    height: 300px;
+    border-color: aliceblue;
+    bottom:35%;
+    position:absolute;
+    left:10%;
+    padding: 40px;
+    /* display: flex; */
+    background-color: aliceblue;
+    display: grid;
+}
+
+#PageCon
+{
+    position:absolute;
+    top: 15%;
+    right: 35%;
+}
+
+#enfil
+{
+    border: 1px solid ;
+    box-shadow:  5px 9px grey;
+    border-radius: 3px;
+    width: 450px;
+    /* height: 300px; */
+    border-color: aliceblue;
+    bottom:35%;
+    /* position:absolute; */
+    left:10%;
+    padding: 40px;
+    display: flex;
+    background-color: aliceblue;
+    display: grid;
+}
+/* th{
+    color: aliceblue;
+}
+td{
+    color: aliceblue;
+} */
+#table
+{
+    border: 1px solid ;
+    box-shadow:  5px 9px grey;
+    border-radius: 3px;
+    width: 450px;
+    /* height: 300px; */
+    border-color: aliceblue;
+    bottom:35%;
+    position:absolute;
+    margin-left: 20%;
+    left:10%;
+    padding: 40px;
+    display: flex;
+    background-color: aliceblue;
+    display: grid;
+}
+#gethome
+{
+    background-color: white;
+        color: black;
+        border: 2px solid #555555;
+        width: 80px;
+        height: 30px;
+        margin-bottom: 0px;
+}
+#PostH
+{
+    text-align: center;
+    color: aliceblue;
+}
+#field
+{
+    padding: 0.5rem;
+    margin: 0.2rem;
+    width: 50vh;
+    display: block;
+    margin-inline: auto;
+}
+#but1
+{
+        background-color: white;
+        color: black;
+        border: 2px solid #555555;
+        width: 90px;
+        height: 50px;
+        border-radius: 10px;
+        margin-left: 25%;
+        margin-top: 55px;
+}
+    #but1:hover {
+        background-color: #555555;
+        color: white;
+    }
+    
+    #but2
+    {
+        border-radius: 10px;
+        background-color: white;
+        color: black;
+        border: 2px solid #555555;
+        width: 90px;
+        height: 50px;
+        margin-left: 30%;
+        margin-bottom: 100px;
+        /* height: 30px; */
+    
+}
+#but2:hover {
+    background-color: #555555;
+    color: white;
+  }
+  
+  #butc
+  {
+      background-color: white;
+      color: black;
+      border: 2px solid #555555;
+      /* width: 90px; */
+      height: 30px;
+    } 
+#butc:hover {
+        background-color: #555555;
+        color: white;
+      }

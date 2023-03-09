@@ -1,0 +1,22 @@
+.PageCon
+{
+    display: grid;
+    border: 2px solid;
+    border-color: red;
+    align-content: center;
+    width: 1470px;
+    height: 670px;
+    justify-content: center;
+    
+}
+.enfil
+{
+    display: grid;
+
+    border: 2px solid;
+    border-color: green;
+    width: 500px;
+    height: 200px; 
+    padding-top: 10%;
+    justify-content: center;
+}
